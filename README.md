@@ -66,7 +66,7 @@ Description : Retourne une liste de tous les produits avec leurs catégories, pr
 
 
 Screen de L'App:
-![My Project Logo](./assets/Screenshot.jpeg)
+![Screenshot_21-11-2024_2387_localhost](https://github.com/user-attachments/assets/45110c21-789a-4eda-97a2-67e2b7c2f9a2)
 
 
 
